@@ -14,7 +14,7 @@ launch=~pb
 clear
 
 #print the credits first, every installer ALWAYS has a stupid splash screen
-echo 'Thanks for HAV0X1014 for making the 1st generation of this code, rewrited by zYongSheng and grammar fixed by Thuy2y2c!'
+echo 'Thanks for HAV0X1014 for making the 1st generation of this code, rewrited by zYongSheng and fixed by Thuy2y2c!'
 echo  '                                                                           
 ██╗░░░██╗░█████╗░███╗░░██╗░██████╗░██████╗░██╗░░░██╗██████╗░░█████╗░░██████╗░██████╗
 ╚██╗░██╔╝██╔══██╗████╗░██║██╔════╝░██╔══██╗╚██╗░██╔╝██╔══██╗██╔══██╗██╔════╝██╔════╝
@@ -49,7 +49,7 @@ if [ ! -d "$javadir" ]; then
 	echo 'Downloading Java...'
 	wget -q https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u345-b01/OpenJDK8U-jdk_x64_linux_hotspot_8u345b01.tar.gz
 	tar -xf OpenJDK8U-jdk_x64_linux_hotspot_8u345b01.tar.gz
-	echo 'Java Successfully installed!'
+	echo 'Java is successfully installed!'
   clear
 fi
 
@@ -80,7 +80,7 @@ if [ ! -d "$modsdir" ]; then
 	wget -q https://github.com/3arthqu4ke/HMC-Specifics/releases/download/1.0.3/HMC-Specifics-1.12.2-b2-full.jar && mv HMC-Specifics-1.12.2-b2-full.jar ~/.minecraft/mods
 	wget -q https://github.com/3arthqu4ke/HeadlessForge/releases/download/1.2.0/headlessforge-1.2.0.jar && mv headlessforge-1.2.0.jar ~/.minecraft/mods
 	wget -q https://github.com/lordofwizard/mcserver/raw/main/startAfk
-	echo 'Mods installed'
+	echo 'Mods is successfully installed!'
 	sleep 2
 	clear
 fi
@@ -98,7 +98,7 @@ fi
 if [ ! -d "$playitcheck" ]; then
 	echo 'Downloading Playit...'
 	wget -q https://playit.gg/downloads/playit-0.8.1-beta -O playit && chmod +x playit
-	echo 'Playit Downloaded!'
+	echo 'Playit is successfully installed!'
 	sleep 2
 	clear
 fi
