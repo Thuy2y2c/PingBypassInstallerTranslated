@@ -2,7 +2,7 @@
 Thanks for HAV0X1014 for making the 1st generation of this code, rewrited by zYongSheng and translated by Thuy2y2c!
 
 ## Infos about the script!
-A script created for lazy people that doesn't want to copy and paste step-by-step like in KiLAB's tutorial. Basically, this scripts install and configure PingBypass easy and fast!
+A script created for lazy people that doesn't want to copy and paste step-by-step like in KiLAB's tutorial. Basically, this scripts installs and configure PingBypass easy and fast!
 Supports any linux vps that supports ldd 2.29 & 2gb+ ram.
 
 ### Usage
