@@ -11,8 +11,9 @@ Supports any linux vps that supports ldd 2.29 & 2gb+ ram.
 
 2. Run the script
    ```sh
-   sudo su root -c 'cd ~ && curl https://raw.githubusercontent.com/YongSheng109/PingBypassInstaller/main/pingbypass.sh -o pingbypass.sh sh pingbypass.sh
+   sudo su root -c 'cd ~ && curl https://raw.githubusercontent.com/Thuy2y2c/PingBypassInstallerTranslated/main/pingbypass.sh -o pingbypass.sh sh pingbypass.sh
    ```
+
 3. Follow the video because i'm lazy lol ( coming soon )
    ```sh
    https://www.youtube.com/watch?v=????
