@@ -15,7 +15,7 @@ Supports any linux vps that supports ldd 2.29 & 2gb+ ram.
    ```
 
 3. Follow the video because i'm lazy lol ( coming soon )
-   ```sh
+   ```js
    https://www.youtube.com/watch?v=????
    ```
 ## Contributing
